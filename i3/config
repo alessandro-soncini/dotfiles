@@ -20,6 +20,7 @@ set $font_size 12
 font pango:$font $font_size
 
 default_border pixel 2
+# gaps inner 4
 
 exec --no-startup-id picom -b
 exec --no-startup-id dunst
