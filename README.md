@@ -1,3 +1,3 @@
 # dotfiles
 
-My dotfiles for my i3wm setup.
+The dotfiles for my i3 window manager setup.
